@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem01.SingleLinkedList"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem02.Permutations", "Problem02.Permutations\Problem02.Permutations.csproj", "{133414D2-6A12-4F26-A3BC-B913ADC9B951}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem07.CentsRepresentation", "Problem07.CentsRepresentation\Problem07.CentsRepresentation.csproj", "{94AE3862-E292-4ACC-8F40-9EB5084E364E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{133414D2-6A12-4F26-A3BC-B913ADC9B951}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{133414D2-6A12-4F26-A3BC-B913ADC9B951}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{133414D2-6A12-4F26-A3BC-B913ADC9B951}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94AE3862-E292-4ACC-8F40-9EB5084E364E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94AE3862-E292-4ACC-8F40-9EB5084E364E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94AE3862-E292-4ACC-8F40-9EB5084E364E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94AE3862-E292-4ACC-8F40-9EB5084E364E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
